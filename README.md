@@ -39,3 +39,4 @@ This are tips and tricks for vim which I found the most usefull, extracted from 
 - abbreviations
 - filter
 - read
+- macros
