@@ -33,6 +33,7 @@ This are tips and tricks for vim which I found the most usefull, extracted from 
 - normal mode f{char} : cursor to the first next occurrence of {char}
 - normal mode F{char} : cursor to the first previous occurrence of {char}
 - normal mode I : insert text at the beginning of the line, goes into insert mode
+- normal mode R : enter replace mode : overwrite exisiting text as typing
 
 ## Features
 - abbreviations
