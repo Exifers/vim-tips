@@ -23,8 +23,15 @@ This are tips and tricks for vim which I found the most usefull, extracted from 
 - normal mode Ctrl+L : redraw the screen
 - normal mode Ctrl+R : redo
 - normal mode Ctrl+V : start blockwise visual mode
-- normal mode # : search backward next occurence of word under cursor
-- normal mode * : search forard next occurence of word unde cursor
+- normal mode # : search backward next occurrence of word under cursor
+- normal mode * : search forard next occurrence of word under cursor
+- normal mode / : search forward
+- normal mode ? : search backward
+- normal mode A : append text to the end of the current line, goes into insert mode
+- normal mode C : change the characters after the cursor, goes into insert mode
+- normal mode D : delete the characters after the cursor
+- normal mode f{char} : cursor to the first next occurrence of {char}
+- normal mode F{char} : cursor to the first previous occurrence of {char}
 
 ## Features
 - abbreviations
