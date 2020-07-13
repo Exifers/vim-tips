@@ -34,6 +34,7 @@ This are tips and tricks for vim which I found the most usefull, extracted from 
 - normal mode F{char} : cursor to the first previous occurrence of {char}
 - normal mode I : insert text at the beginning of the line, goes into insert mode
 - normal mode R : enter replace mode : overwrite exisiting text as typing
+- normal mode gf : go to file in current path whose name is under the cursor
 
 ## Features
 - abbreviations
