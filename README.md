@@ -19,7 +19,7 @@ This are tips and tricks for vim which I found the most usefull, extracted from 
 - normal mode Ctrl+G : display current filename and position
 - normal mode Ctrl+O : go backward in jump list
 - normal mode Ctrl+I : go forward in jump list
-- normal mode K : open man page about the word under the cursor
+- normal mode K : open man page about the word under the cursor, see: keywordprg
 - normal mode Ctrl+L : redraw the screen
 - normal mode Ctrl+R : redo
 - normal mode Ctrl+V : start blockwise visual mode
