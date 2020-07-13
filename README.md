@@ -32,6 +32,7 @@ This are tips and tricks for vim which I found the most usefull, extracted from 
 - normal mode D : delete the characters after the cursor
 - normal mode f{char} : cursor to the first next occurrence of {char}
 - normal mode F{char} : cursor to the first previous occurrence of {char}
+- normal mode I : insert text at the beginning of the line, goes into insert mode
 
 ## Features
 - abbreviations
