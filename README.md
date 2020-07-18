@@ -36,6 +36,7 @@ This are tips and tricks for vim which I found the most usefull, extracted from 
 - normal mode R : enter replace mode : overwrite exisiting text as typing
 - normal mode gf : go to file in current path whose name is under the cursor
 - normal mode gi : go to last insert and enter edit mode
+- normal mode gx : open url in browser
 
 ## Features
 - abbreviations
